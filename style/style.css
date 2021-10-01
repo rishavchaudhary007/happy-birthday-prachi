@@ -27,6 +27,7 @@ body {
           justify-content: center;
   min-height: 100vh;
   background: hsl(180, 30%, calc(var(--lightness, 50) * 1%));
+  background-color: pink;
 }
 .whitespace {
   width: 7px;
